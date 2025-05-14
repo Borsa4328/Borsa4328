@@ -1,16 +1,40 @@
-## Hi there 👋
+# 💻 Frontend Developer | HTML • CSS • JavaScript • React
 
-<!--
-**Borsa4328/Borsa4328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a passionate frontend developer focused on building responsive, user-friendly, and fast web applications.  
+I work with modern web technologies and constantly strive to improve my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack:
+- **HTML5**, **CSS3** (Flexbox, Grid, responsive layouts)
+- **JavaScript (ES6+)**
+- **React** (Hooks, components, props, state)
+- Converting designs from **Figma** to code
+- Basic knowledge of **Git**, **GitHub**, **npm**
+
+---
+
+## 🚀 What I Can Do:
+- Create pixel-perfect layouts from Figma designs  
+- Build interactive and responsive user interfaces  
+- Connect and use external APIs  
+- Write clean, readable, and maintainable code  
+- Collaborate using Git version control  
+
+---
+
+## 📈 Currently Learning:
+- TypeScript  
+- React Router  
+- Working with REST APIs  
+- Backend fundamentals: Node.js, SQL
+
+---
+
+## 📫 Contact Me:
+- Telegram: [@yourusername](https://t.me/yourusername)  
+- Email: your.email@example.com
+
+---
+
+Always open to new projects, collaborations, and learning opportunities!
