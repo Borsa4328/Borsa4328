@@ -32,8 +32,8 @@ I work with modern web technologies and constantly strive to improve my skills.
 ---
 
 ## 📫 Contact Me:
-- Telegram: [@yourusername](https://t.me/yourusername)  
-- Email: your.email@example.com
+- Telegram: [@borsa8502](https://t.me/borsa8502)  
+- Email: horizon7576@gmail.com
 
 ---
 
