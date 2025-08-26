@@ -6,7 +6,7 @@ I work with modern web technologies and constantly strive to improve my skills.
 ---
 
 ## 🛠️ Tech Stack:
-- **HTML5**, **CSS3** (Flexbox, Grid, responsive layouts)
+- **HTML5**, **CSS3**, **TailwindCSS** (Flexbox, Grid, responsive layouts)
 - **JavaScript (ES6+)**
 - **React** (Hooks, components, props, state)
 - Converting designs from **Figma** to code
