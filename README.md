@@ -1,40 +1,70 @@
-# 💻 Frontend Developer | HTML • CSS • JavaScript • React
+# 👋 Hi, I'm Muxammadaziz Abdumanonov
 
-Hi there! I'm a passionate frontend developer focused on building responsive, user-friendly, and fast web applications.  
-I work with modern web technologies and constantly strive to improve my skills.
-
----
-
-## 🛠️ Tech Stack:
-- **HTML5**, **CSS3**, **TailwindCSS** (Flexbox, Grid, responsive layouts)
-- **JavaScript (ES6+)**
-- **React** (Hooks, components, props, state)
-- Converting designs from **Figma** to code
-- Basic knowledge of **Git**, **GitHub**, **npm**
+💻 Junior Frontend Developer focused on building modern, responsive, and user-friendly web applications.
 
 ---
 
-## 🚀 What I Can Do:
-- Create pixel-perfect layouts from Figma designs  
-- Build interactive and responsive user interfaces  
-- Connect and use external APIs  
-- Write clean, readable, and maintainable code  
-- Collaborate using Git version control  
+## 🚀 About Me
+
+- 🎓 Computer Science student (University of Westminster in Tashkent)
+- 💡 Passionate about clean UI, performance, and modern web design
+- 🌐 Building websites using React, Tailwind CSS, and WordPress
+- 🚀 Open to freelance and remote opportunities
 
 ---
 
-## 📈 Currently Learning:
-- TypeScript  
-- React Router  
-- Working with REST APIs  
-- Backend fundamentals: Node.js, SQL
+## 🛠 Tech Stack
+
+**Frontend:**
+- HTML5, CSS3
+- JavaScript (ES6+)
+- React
+- Tailwind CSS, Sass
+
+**Other:**
+- WordPress (landing pages, customization)
+- Git & GitHub
+- Vercel / Netlify deployment
+- Figma to Code
 
 ---
 
-## 📫 Contact Me:
-- Telegram: [@borsa8502](https://t.me/borsa8502)  
-- Email: horizon7576@gmail.com
+## 💼 Projects
+
+### 🛒 E-commerce Website
+Responsive online store with product listings and cart functionality  
+**Tech:** React, Tailwind CSS  
 
 ---
 
-Always open to new projects, collaborations, and learning opportunities!
+### 🌦 Weather App
+Real-time weather app with API integration  
+**Tech:** React, JavaScript  
+
+---
+
+### 🌐 Portfolio Website
+Personal portfolio showcasing projects and skills  
+**Tech:** React, Tailwind CSS  
+
+---
+
+## 📈 What I Can Do
+
+- Build responsive websites (React / WordPress)
+- Create landing pages for businesses
+- Convert Figma designs into clean code
+- Improve UI/UX and performance
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: muxammadaziz.abdumanonov@yandex.com  
+- 💼 Open to freelance work  
+- 🌍 Available for remote projects  
+
+---
+
+⭐ Feel free to check my repositories and connect!
+
