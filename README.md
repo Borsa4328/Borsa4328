@@ -27,25 +27,6 @@
 - Vercel / Netlify deployment
 - Figma to Code
 
----
-
-## 💼 Projects
-
-### 🛒 E-commerce Website
-Responsive online store with product listings and cart functionality  
-**Tech:** React, Tailwind CSS  
-
----
-
-### 🌦 Weather App
-Real-time weather app with API integration  
-**Tech:** React, JavaScript  
-
----
-
-### 🌐 Portfolio Website
-Personal portfolio showcasing projects and skills  
-**Tech:** React, Tailwind CSS  
 
 ---
 
